@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="pic">Egg Picture</string>
+    <string name="go">Go!</string>
+    <string name="timeWrite">00 : 30</string>
+    <string name="volumn">Set Volume >></string>
+</resources>
